@@ -6,6 +6,7 @@ create metamask accounts on rinkeby testnet and add test ethers to it using some
 in the folder lottery, deploy the given Lottery.sol contract on rinkeby testnet using deploy.js (don't forget to change provider, infura credentials)<br>
 copy the generated ABI and address from console to lottery.js<br>
 copy node modules in project<br>
-run the server using: npm start
+run the server using: npm start<br>
+<img src="https://raw.githubusercontent.com/tkkhhaarree/ethereum-lottery/master/Screenshot%20(84).png">Screenshot</img>  
 
 
